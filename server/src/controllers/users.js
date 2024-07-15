@@ -1,9 +1,9 @@
 const registerNewUser = (req, res) => {
-    res.send("Home");
+    res.send("Register Page");
 }
 
 const loginUser = (req, res) => {
-    res.send("ok");
+    res.send("login page");
 }
 
 
